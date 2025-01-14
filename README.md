@@ -11,8 +11,8 @@ The argument of the eval() function is a string.
 ![App Screenshot](https://raw.github.com/MohammedAfrid126/Calculator/master/web-view.jpg)
 
 ## Try out
-
-https://mohammedafrid126.github.io/Calculator/
+[
+https://mohammedafrid126.github.io/Calculator/](https://github.com/Salotagiabhishek/Calculator-master.git)
 
 ## Tech Stack
 HTML, CSS and JS.
